@@ -1,0 +1,13 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  .card-item {
+    width: 26%;
+    margin-bottom: 28px;
+  }
+  

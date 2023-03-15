@@ -1,0 +1,25 @@
+.img-post{
+    position: relative;
+    height: 30%;
+    left: 13px;
+    bottom: 36px;
+    border-radius: 10px;
+    width: 22%; 
+}
+.Table-info{
+    position: absolute;
+    left: 350px;
+    bottom: 240px;
+    width: 900px;
+}
+.Table-info2{
+    position: absolute;
+    left: 350px;
+    bottom: 120px;
+    width: 900px;
+}
+.show-movie{
+    position: relative;
+    left: 66%;
+    top:154px;
+}
